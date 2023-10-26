@@ -7,5 +7,4 @@ SWE574 Fall2023 Group1 website
 * [SWE574-Fall2023-G1](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1)
 * [SWE574-Fall2023-G1-mobile](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1-mobile)
 
-
 Made with ❤️ by SWE574 Group 1
